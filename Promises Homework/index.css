@@ -1,0 +1,57 @@
+body {
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+header {
+    margin: 0 0 20px 0;
+}
+
+
+.btn {
+    text-align: center;
+    margin: 50px 0 20px 0;
+}
+
+.btn-div {
+    padding-bottom: 20px;
+}
+p, .title {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding: 25px;
+    text-align: center;
+}
+
+.title {
+    color: #2374AB;
+    font-size: 44px;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+ul {
+    list-style-type:none;
+    text-align: justify;
+}
+
+li {
+    text-transform: capitalize;
+}
+
+span {
+    padding-left: 20px;
+}
+
+img {
+    padding: 20px;
+}
+
+#authors {
+    padding: 10px;
+}
